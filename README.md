@@ -38,7 +38,7 @@
 **Hobbies:**
 - Hiking/Backpaking
   - My wife and I go backpacking with a group of friends every month or so during the warmer months. It's just just an over-night, but we try to stretch it out if we get a holiday weekend.
-  - We also enjoy this just as a couple. It's good to get away from everything _except_ each other. :couple: And it's good to married to someone who feels the same way.
+  - We also enjoy this just as a couple. It's good to get away from everything _except_ each other. :couple: And it's good to be married to someone who feels the same way.
 - Cycling
   - Mountain biking: In my younger days. I don't bounce very well anymore.
   - Road biking: Only occasionally now. I still enjoy it, but I don't have a group or a great place to ride. Sometimes my wife and I pick and ajacent town and do a day trip. It's great exercise, and at my age, a zero-impact (if done properly) way to do that is a good thing.
