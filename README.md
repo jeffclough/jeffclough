@@ -42,7 +42,7 @@
 <a name="hobbies"></a><br/>
 **Hobbies:**
 - Hiking/Backpaking
-  - My wife and I go backpacking with a group of friends every month or so during the warmer months. It's just just an over-night, but we try to stretch it out if we get a holiday weekend.
+  - My wife and I go backpacking with a group of friends every month or so during the warmer months. It's usually just an over-night, but we try to stretch it out if we get a holiday weekend.
   - We also enjoy this just as a couple. It's good to get away from everything _except_ each other. :couple: And it's good to be married to someone who feels the same way.
 - Cycling
   - Mountain biking: In my younger days. I don't bounce very well anymore.
