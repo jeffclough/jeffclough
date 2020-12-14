@@ -9,6 +9,11 @@
 - [Repositories](#repos)
 
 ## Let the Narcissism Begin!
+![Atomic Jeff](bin/Atomic%20Jeff.256.jpg)
+![MugShot](bin/jc-mugshot.256.jpg)<br/>
+![Dramatic Jeff](bin/Dramatic%20Jeff.256.jpg)
+![Green Beard](bin/20190309_144740.110-Green%20Beard-256.jpg)
+
 <a name="development"></a><br/>
 **Early Development of a Developer:** I wasn't originally interested in software ... since I'd never heard of it.
 - As a young child, I'd watched my grandfather build a [Heathkit](https://www.heathkit.com) television on the kitchen table. So I knew what a soldering iron was for, I'd seen lots of different kinds of components, and I knew that building things using all this was accessible to mortal man.
