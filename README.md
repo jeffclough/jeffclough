@@ -1,12 +1,18 @@
+# Total Vanity
+## Prolog
+Quoth King Soloman at the start of the Book of Ecclesiastes:
 
+> **12** I the Preacher have been king over Israel in Jerusalem. **13** And I applied my heart to seek and to search out by wisdom all that is done under heaven. It is an unhappy business that God has given to the children of man to be busy with. **14** I have seen everything that is done under the sun, and behold, all is vanity and a striving after wind.<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;**15** What is crooked cannot be made straight,<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and what is lacking cannot be counted.<br/><br/>**16** I said in my heart, “I have acquired great wisdom, surpassing all who were over Jerusalem before me, and my heart has had great experience of wisdom and knowledge.” **17** And I applied my heart to know wisdom and to know madness and folly. I perceived that this also is but a striving after wind.<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;**18** For in much wisdom is much vexation,<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and he who increases knowledge increases sorrow.
 
 ## Table of Contents
+- [Prolog](#prolog)
 - [Early Development of a Developer](#development)
 - [Education](#education)
 - [Work](#work)
 - [Hobbies](#hobbies)
 - [How I Work](#just_silly)
 - [Repositories](#repos)
+- [Epilog](#epilog)
 
 ## Let the Narcissism Begin!
 ![Atomic Jeff](bin/Atomic%20Jeff.256.jpg)
@@ -50,6 +56,11 @@
 - Small Programming Projects: I'd enumerate them, but ... you're already looking at [my stuff on GitHub](https://github.com/jeffclough?tab=repositories).
 - Electronics (yes, again): No more 7400 series digital logic, building flip flops from discrete gates, or any of that stuff. Now we have microcontrollers, which are actually a lot like that TRS-80 I cut my teeth on. There's no operating system, so the whole computer is focused entirely on what I tell it (for better or worse). And debugging is very primitive. It's great. With the advent of IoT, I can merge electronics back into my programming. [Two great tastes that taste great together!](https://www.youtube.com/watch?v=DJLDF6qZUX0)
 - Photography: This is _mostly_ a hobby, but I do occasionally get paid for stuff. It's a lot of fun. Mostly travel, landscape, and wildlife, but I also really enjoy portrait and event work. You can see [some of my portrait and livestyle stuff](https://www.jeffclough.photo) if you'd like, but I don't really keep it up to date very well. \<sigh\> ... the cobbler's children ...
+
+## Epilog
+Quoth King Soloman at the end of the Book of Ecclesiastes:
+
+> **13** The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man. **14** For God will bring every deed into judgment, with every secret thing, whether good or evil.
 
 <!--
 **jeffclough/jeffclough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
