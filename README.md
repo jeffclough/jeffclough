@@ -48,7 +48,7 @@ Quoth King Soloman at the start of Ecclesiastes:
 <a name="just_silly"></a><br/>
 **How I Work:**
 
-My body is almost entirely biological. It dietarily processes only carbohydrates, lipids, and amino and nucleic acids, but it also needs copious water and a modicum of cellulose for maintaining chemical balances and the mechanical breakdown of my food. The sensitivity and discrimination of its olfactory system and area postrema have always been sufficient to prevent or remedy the ingestion of anything intolerably unwholesome to it. Thanks for asking.
+My body is almost entirely biological. It dietarily processes only carbohydrates, lipids, and amino and nucleic acids, but it also needs copious water and a modicum of cellulose to maintain chemical balances and for the mechanical breakdown of my food. Its olfactory system and area postrema, having good sensitivity and adequate discrimination, have always been sufficient to prevent or remedy the ingestion of anything intolerably unwholesome to it. Thanks for asking.
 
 <a name="hobbies"></a><br/>
 **Hobbies:**
