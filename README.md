@@ -48,7 +48,7 @@ Quoth King Soloman at the start of Ecclesiastes:
 <a name="just_silly"></a><br/>
 **How I Work:**
 
-My body is almost entirely biological. It dietarily processes only carbohydrates, lipids, and amino and nucleic acids, but it also needs copious water and a modicum of cellulose to maintain chemical balances and for the mechanical breakdown of my food. Its olfactory system and area postrema, having good sensitivity and adequate discrimination, have always been sufficient to prevent or remedy the ingestion of anything intolerably unwholesome to it. Thanks for asking.
+My body is almost entirely biological. It dietarily processes only carbohydrates, lipids, and amino and nucleic acids, but it also needs copious water and a modicum of cellulose to maintain chemical balances and for the mechanical breakdown of what I "feed" it. Its olfactory system and area postrema, having adequate sensitivity and discrimination, have always been sufficient to prevent or remedy the ingestion of anything intolerably unwholesome to it. Its lungs both take in and expel atmospheric gasses to and from its blood. This blood carries these gasses, dietary nutrients, endocrine chemicals, and waste products of metabolism to all organs and tissues for their use and handling. [More information](https://www.livescience.com/37009-human-body.html) is available to the curious.
 
 <a name="hobbies"></a><br/>
 **Hobbies:**
